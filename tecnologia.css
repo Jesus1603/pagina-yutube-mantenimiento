@@ -1,0 +1,17 @@
+h1, h2{
+	color:purple;
+	font-size: 28px;
+	font-family: Arial Black;
+	text-align: center;
+}
+
+p{
+color:white;
+font-size: 25px;
+font-family: times nuew roma;
+text-align: justify;
+}
+
+body{
+	background-image: url("armado.jpg"); 
+}
